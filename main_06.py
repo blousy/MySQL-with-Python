@@ -1,4 +1,3 @@
-from os import dup2
 import mysql.connector as connector
 
 mydb = connector.connect(host='localhost',
